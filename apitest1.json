@@ -1,0 +1,18 @@
+{
+  "breakpoints": {
+    "widths": [
+      320,
+      1024,
+      5000
+    ]
+  },
+  "id": "apitest",
+  "output": {},
+  "transformations": [
+    {
+      "transformation": "BackgroundColor",
+      "color": "#5a2626"
+    }
+  ],
+  "video": false
+}
