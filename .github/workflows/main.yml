@@ -21,7 +21,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Deploy DNS zone file
-      uses: Achuthananda/akamai-deploy-im-policy-github-action@v1
+      uses: Achuthananda/akamai-deploy-im-policy-github-action@v2
       env:
         EDGERC: ${{ secrets.EDGERC }}
       with:
